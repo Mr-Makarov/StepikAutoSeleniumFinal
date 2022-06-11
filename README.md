@@ -1,1 +1,5 @@
-# stepik_auto_tests_course
+Решение задач курса Автоматизация тестирования с помощью Selenium и Python
+
+Требования:
+
+    задачи в курсе расчитаны на использование Selenium Chrome WebDriver. Для запуска решений, необходимо убедиться, что Selenium Chrome WebDriver доступен в PATH
